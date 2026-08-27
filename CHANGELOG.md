@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Features
+
+- (build) Add dSYM support to IPA uploads ([#3393](https://github.com/getsentry/sentry-cli/pull/3393))
+
 ### Fixes
 
 - (snapshots) Create snapshot builds for selective uploads with no affected images when a complete filename manifest is provided ([#3395](https://github.com/getsentry/sentry-cli/pull/3395))
